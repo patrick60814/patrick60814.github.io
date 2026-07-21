@@ -634,8 +634,8 @@ pace: false
 #pace-theme-mac-osx
 #pace-theme-minimal
 # For example
-# pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-center-simple
+# pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: false
